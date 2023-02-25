@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fpython%20(1).png?alt=media&token=c4e3ded2-0858-4115-9830-5de862cbdd91",
+      "name": "Python",
+      "title": "14th January : Friday",
+      "Grade": "Open to All",
+      "techStackType": [
+            "Technical",
+            "All Trainings"
+        ],
+      "enrollmentLink": "https://forms.office.com/r/0yCCnngMXa"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript",
+      "title": "26th January : Wednesday",
+      "Grade": "Open to All",
+      "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fjs.png?alt=media&token=10e98f1e-e856-43f5-8ddf-fca543ff393e",
+      "techStackType": [
+            "Technical",
+            "All Trainings"
+        ],
+      "enrollmentLink": "https://forms.office.com/r/0yCCnngMXa"
+    },
+    {
+      "id": 3,
+      "name": "Java",
+      "title": "26th January : Wednesday",
+      "Grade": "Open to All",
+      "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fjava.png?alt=media&token=23a47bb1-4760-4b86-8805-07539e964679",
+      "techStackType": [
+            "Technical",
+            "All Trainings"
+        ],
+      "enrollmentLink": "https://forms.office.com/r/0yCCnngMXa"
+    },
+    {
+      "id" : 4,
+      "name": "Art of Assertive Communication 2",
+      "title": "18th March : Friday",
+      "Grade": "3.3-5.3",
+      "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fartofasertive.png?alt=media&token=aa3ce9f8-af29-4d67-92a2-fc40d626ac8e",
+      "techStackType": [
+            "Communication",
+            "All Trainings"
+        ],
+      "enrollmentLink": "https://forms.office.com/r/0yCCnngMXa"
+    },
+    {
+      "id": 5,
+      "name": "Client Communication 1",
+      "title": "15th August : Monday",
+      "Grade": "1.3-3.2",
+      "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fcomm.png?alt=media&token=2eb80c2d-0143-4301-9a8c-9fef1ecfcbd8",
+      "techStackType": [
+            "Communication",
+            "All Trainings"
+        ],
+      "enrollmentLink": "https://forms.office.com/r/0yCCnngMXa"
+    },
+    {
+      "id": 6,
+      "name": "Managing Difficult Conversations",
+      "title": "15th August : Monday",
+      "Grade": "3.3-5.3",
+      "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fmgmt.png?alt=media&token=0010429b-05e8-4df6-96bd-c3d9aa02f1b8",
+      "techStackType": [
+            "Communication",
+            "All Trainings"
+        ],
+      "enrollmentLink": "https://forms.office.com/r/0yCCnngMXa"
+    },
+    {
+      "id": 7,
+      "name": "Enhancing Personal Performance 2",
+      "title": "3rd May : Tuesday",
+      "Grade": "3.3-5.3",
+      "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fpers%20(1).png?alt=media&token=0bd39d2d-220f-4f46-ad62-36e530c21916",
+      "techStackType": [
+            "Soft Skill",
+            "All Trainings"
+        ],
+      "enrollmentLink": "https://forms.office.com/r/0yCCnngMXa"
+    },
+    {
+      "id": 8,
+      "name": "Planning and Prioritizing Work",
+      "title": "15th August : Monday",
+      "Grade": "3.3-5.3",
+      "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fprior.png?alt=media&token=2f235a4b-1884-42cc-824c-b8289364bcd4",
+      "techStackType": [
+            "Soft Skill",
+            "All Trainings"
+        ],
+      "enrollmentLink": "https://forms.office.com/r/0yCCnngMXa"
+    },
+    {
+      "id": 9,
+      "name": "Language Competence",
+      "title": "15th August : Monday",
+      "Grade": "3.3-5.3",
+      "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Flang.png?alt=media&token=597776b5-cb52-439b-8cdd-ef47a0525100",
+      "techStackType": [
+            "Soft Skill",
+            "All Trainings"
+        ],
+      "enrollmentLink": "https://forms.office.com/r/0yCCnngMXa"
+    },
+    {
+      "id": 10,
+      "name": "Negotiation Skills",
+      "title": "15th August : Monday",
+      "Grade": "7.1-11.3",
+      "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fnego.png?alt=media&token=ceef184a-f673-476a-81f2-f950434909d4",
+      "techStackType": [
+            "Management",
+            "All Trainings"
+        ],
+      "enrollmentLink": "https://forms.office.com/r/0yCCnngMXa"
+    },
+    {
+      "id": 11,
+      "name": "Managing Differently with Emotional Intelligence",
+      "title": "15th August : Monday",
+      "Grade": "7.1-9.3",
+      "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-9f0e2.appspot.com/o/upskill%2Fprob.png?alt=media&token=0da6cb2f-1db9-4057-b1c6-00b2ecb40086",
+      "techStackType": [
+            "Management",
+            "All Trainings"
+        ],
+      "enrollmentLink": "https://forms.office.com/r/0yCCnngMXa"
+    }
+]
